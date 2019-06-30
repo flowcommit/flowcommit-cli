@@ -1,2 +1,2 @@
-# flowcommit-cli
-FlowCommit CLI
+# FlowCommit CLI
+Work In Progress
